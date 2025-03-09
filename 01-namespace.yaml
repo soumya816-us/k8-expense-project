@@ -1,2 +1,4 @@
-kind: service
 apiVersion: v1
+kind: Namespace
+metadata:
+  name: expense
